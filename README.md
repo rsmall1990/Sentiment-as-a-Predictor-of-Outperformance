@@ -1,5 +1,5 @@
 # corp_fin_demo
 
-It's often difficult to understand the types of work someone can do without working with them for a period of time. This repository is meant to demonstrate the types of projects I have done. I hope you enjoy, and please reach out with any feedback. 
+It's often difficult to understand the types of work someone can do without first working with them. This repository is a portfolio of the 'kinds' of work I've done--some projects I simply can't display for various reasons. I hope you enjoy. Please reach out with feedback. 
 
 Ryan.
