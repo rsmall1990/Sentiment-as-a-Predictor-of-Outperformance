@@ -1,6 +1,10 @@
 # Sentiment and Market Outperformance
 
-The goal of this project is to determine if aggregated sentiment on social media and news platforms can serve as a predictor of market outperformance. This can be seen on a historical basis. If tests prove out, then establishing a working algorithmic trading mechanism would be the next step.
+The goal of this project is to determine if aggregated sentiment on social media and news platforms can serve as a predictor of market outperformance. This can be seen on a historical basis.
+
+If there is determinable outperformance relative to an underlying index, then the information would be considered actionable.
+
+The next step is to place trades using an application programming interface with a broker.
 
 Therefore, the steps are as follows:
 
