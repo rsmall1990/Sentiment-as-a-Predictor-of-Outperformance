@@ -1,8 +1,8 @@
 # Sentiment and Market Outperformance
 
-The goal of this project is to determine if aggregated sentiment on social media and news platforms can serve as a predictor of market outperformance. This can be seen on a historical basis.
+This project functions as an example of a deployed fully-functional "data product." It will look at whether Twitter sentiment can serve as a predictor of market outperformance. Although the topic has been covered extensively in [relevant literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138441#:~:text=In%20%5B%2031%20%5D%2C%20the%20authors%20show%20that,terms%20of%20their%20influence%20on%20future%20stock%20prices.}), it can serve as a useful demonstration of the power of data products to influence decisions of consequence. The product will be deployed live to a microsoft azure environment for public access.
 
-If there is determinable outperformance relative to an underlying index, then the information would be considered actionable.
+The initial phase will gather data from the twitter api alone. This data will be analysed to determine if there is a correlation between sentiment and security specific alpha.
 
 The next step is to place trades using an application programming interface with a broker.
 
